@@ -1,0 +1,60 @@
+﻿@using Portal3.Models
+@model IEnumerable<Portal3.Models.drkpDepartment>
+
+<script>
+
+function my_f(objName) {
+var object = document.getElementById(objName);
+object.style.display = (object.style.display == 'none') ? 'block' : 'none'
+}
+</script>
+
+@helper BuildMenu(IEnumerable<drkpDepartment> data, int? parentID = null, string isVisible = "block", int? DepClass = 0)
+{
+var items = data.Where(d => d.ParentID == parentID).OrderBy(i => i.DepOrder);
+if (items.Any())
+{
+   <div id="@DepClass" style="display:@isVisible;" >
+       <ul>
+           @foreach (var item in items)
+           {
+
+               <li style="list-style-type:none;">
+                   <p class="TreeStyle" onclick="my_f(@item.ID)">@item.DepartmentName</p>
+
+                   @*<ul id="@item.ID" style="display:none" onclick="my_f(@item.ID)">
+                       @foreach (drkpStaffList st in item.drkpStaffList)
+                       {
+                           <li style="list-style-type:none;">
+                               <p class="Employee">
+                                   @if (st.UserID != null)
+                                   { @st.cmnUser.FullNameRu}
+                                   else
+                                   {@st.StaffCode }
+                               </p>
+                           </li>
+                       }
+                   </ul>*@
+
+                   @if (item.ID != 20) { isVisible = "none"; }
+            else { isVisible = "block"; }
+
+                   @BuildMenu(data, item.ID, isVisible, item.ID)
+               </li>
+
+           }
+       </ul>
+   </div>
+}
+}
+<div>
+    @BuildMenu(Model)
+</div>
+
+
+
+
+
+
+
+

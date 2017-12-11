@@ -1,0 +1,102 @@
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\roslyn\csc.exe
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\roslyn\vbc.exe
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\roslyn\VBCSCompiler.exe
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\Portal3.dll.config
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\Portal3.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\Portal3.pdb
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\Antlr3.Runtime.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\EntityFramework.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\EntityFramework.SqlServer.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\Newtonsoft.Json.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\System.Web.Helpers.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\System.Web.Mvc.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\System.Web.Optimization.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\System.Web.Razor.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\System.Web.WebPages.Deployment.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\System.Web.WebPages.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\System.Web.WebPages.Razor.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\WebGrease.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\EntityFramework.xml
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\EntityFramework.SqlServer.xml
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\System.Web.Helpers.xml
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\System.Web.Mvc.xml
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\System.Web.Optimization.xml
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\System.Web.Razor.xml
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\System.Web.WebPages.xml
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\System.Web.WebPages.Deployment.xml
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\System.Web.WebPages.Razor.xml
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\Antlr3.Runtime.pdb
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\Newtonsoft.Json.xml
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\ru\System.Web.Helpers.resources.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\ru\System.Web.Mvc.resources.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\ru\System.Web.Optimization.resources.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\ru\System.Web.Razor.resources.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\ru\System.Web.WebPages.resources.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\obj\Debug\Portal3.csprojResolveAssemblyReference.cache
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\obj\Debug\Portal3.dll
+c:\users\mazhulinaa\documents\visual studio 2015\Projects\Portal3\Portal3\obj\Debug\Portal3.pdb
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\roslyn\csc.exe
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\roslyn\vbc.exe
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\roslyn\VBCSCompiler.exe
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\Portal3.dll.config
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\Portal3.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\Portal3.pdb
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\Antlr3.Runtime.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\EntityFramework.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\EntityFramework.SqlServer.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\Newtonsoft.Json.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\System.Web.Helpers.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\System.Web.Mvc.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\System.Web.Optimization.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\System.Web.Razor.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\System.Web.WebPages.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\System.Web.WebPages.Razor.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\WebGrease.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\EntityFramework.xml
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\EntityFramework.SqlServer.xml
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\System.Web.Helpers.xml
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\System.Web.Mvc.xml
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\System.Web.Optimization.xml
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\System.Web.Razor.xml
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\System.Web.WebPages.xml
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\System.Web.WebPages.Razor.xml
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\Antlr3.Runtime.pdb
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\Newtonsoft.Json.xml
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\ru\System.Web.Razor.resources.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\obj\Debug\Portal3.dll
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\obj\Debug\Portal3.pdb
+C:\Users\strelnikovas\Desktop\Portal3\Portal3\obj\Debug\Portal3.csprojResolveAssemblyReference.cache
